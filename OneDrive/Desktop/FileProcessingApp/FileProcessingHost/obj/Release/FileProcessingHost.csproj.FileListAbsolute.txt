@@ -1,0 +1,11 @@
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\bin\Release\FileProcessingHost.exe.config
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\bin\Release\FileProcessingHost.exe
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\bin\Release\FileProcessingHost.pdb
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\bin\Release\FileProcessingApp.dll
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\bin\Release\FileProcessingApp.pdb
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\bin\Release\FileProcessingApp.dll.config
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\obj\Release\FileProcessingHost.csproj.AssemblyReference.cache
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\obj\Release\FileProcessingHost.csproj.CoreCompileInputs.cache
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\obj\Release\FileProc.E0948A20.Up2Date
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\obj\Release\FileProcessingHost.exe
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingHost\obj\Release\FileProcessingHost.pdb

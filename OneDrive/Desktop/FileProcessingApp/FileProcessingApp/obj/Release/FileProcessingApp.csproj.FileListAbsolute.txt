@@ -1,0 +1,7 @@
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingApp\bin\Release\FileProcessingApp.dll.config
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingApp\bin\Release\FileProcessingApp.dll
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingApp\bin\Release\FileProcessingApp.pdb
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingApp\obj\Release\FileProcessingApp.csproj.AssemblyReference.cache
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingApp\obj\Release\FileProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingApp\obj\Release\FileProcessingApp.dll
+C:\Users\veere\OneDrive\Desktop\FileProcessingApp\FileProcessingApp\obj\Release\FileProcessingApp.pdb
